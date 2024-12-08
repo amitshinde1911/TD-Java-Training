@@ -1,0 +1,5 @@
+package com.amit.mvc.model;
+
+public class AverageCalculator {
+
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Update Product</title>
+</head>
+<body>
+	<h1>Update Product:</h1>
+	<form method="post" action="updateServlet">
+		<table>
+			<tr>
+				<td>Id:</td>
+				<td><input name="id" /></td>
+			</tr>
+
+			<tr>
+				<td>Price:</td>
+				<td><input name="price" /></td>
+			</tr>
+			<tr>
+				<td />
+				<td><input type="submit" value="Update" /></td>
+		</table>
+	</form>
+</body>
+</html>

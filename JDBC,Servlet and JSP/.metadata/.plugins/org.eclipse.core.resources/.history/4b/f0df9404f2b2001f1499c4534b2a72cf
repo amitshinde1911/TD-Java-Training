@@ -1,0 +1,5 @@
+package com.amit.mvc.controller;
+
+public class AverageController {
+
+}

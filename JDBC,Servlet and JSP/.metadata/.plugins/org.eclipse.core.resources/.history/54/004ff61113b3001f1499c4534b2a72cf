@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib>
+	<tlibversion>2.0</tlibversion>
+	<jspversion>2.0</jspversion>
+	<shortname>userinformation</shortname>
+	<info>This library displays the user information</info>
+	<uri>http://amit.com</uri>
+	
+	<tag>
+		<name>displayuser</name>
+		<tageclass>ResultHandler</tageclass>
+	</tag>
+</taglib>

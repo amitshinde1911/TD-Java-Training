@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Addition</title>
+</head>
+<body>
+<form> 
+Number 1: <input type= "text" name="number1">
+Number 1: <input type= "text" name="number1">
+<input type="submit" name="submit">
+</form>
+
+</body>
+</html>

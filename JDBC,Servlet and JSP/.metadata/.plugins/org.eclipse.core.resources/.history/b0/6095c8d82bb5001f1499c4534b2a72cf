@@ -1,0 +1,12 @@
+package com.amit.utilities;
+
+import java.sql.Connection;
+
+public class ConnectionUtil {
+	
+	public static Connection getConnection() {
+		Connection connection = null;
+		return connection;
+	}
+
+}

@@ -1,0 +1,5 @@
+1733638278131	Copy compilation unit
+1733638402620	Extract local variable 'initialContext'
+1733640852943	Move 'createProduct.jsp' to 'webapp'
+1733643826174	Extract method 'extracted'
+1733646552357	Extract local variable 'product'

@@ -1,0 +1,5 @@
+package com.amit.jdbc;
+
+public class AccountDAO {
+
+}
